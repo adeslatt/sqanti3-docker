@@ -1,7 +1,7 @@
 # Dockerfile for SQANTI3
 # https://github.com/ConesaLab/SQANTI3
 
-FROM python:3.8.11-slim-buster
+FROM python:3.10.0b3-slim-buster
 
 MAINTAINER Joel Nitta joelnitta@gmail.com
 
