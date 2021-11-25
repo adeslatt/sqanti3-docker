@@ -1,7 +1,7 @@
 # Dockerfile for SQANTI3
 # https://github.com/ConesaLab/SQANTI3
 
-FROM python:3
+FROM python:3.10.0b2
 
 MAINTAINER Joel Nitta joelnitta@gmail.com
 LABEL authors="Joel Nitta joelnitta@gmail.com Anne Deslattes Mays adeslat@scitechcon.org"
