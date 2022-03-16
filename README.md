@@ -1,4 +1,5 @@
 
+[![Docker](https://github.com/adeslatt/sqanti3-docker/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/adeslatt/sqanti3-docker/actions/workflows/docker-publish.yml)[![Docker Image CI](https://github.com/adeslatt/sqanti3-docker/actions/workflows/docker-image.yml/badge.svg)](https://github.com/adeslatt/sqanti3-docker/actions/workflows/docker-image.yml)
 # README
 
 A docker image for running [SQANTI3](https://github.com/ConesaLab/SQANTI3)
